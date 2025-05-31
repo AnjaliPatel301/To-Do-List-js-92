@@ -24,3 +24,8 @@ A simple and clean **To-Do List** application built using **HTML, CSS, and JavaS
 ---
 
 
+#output
+
+
+![Screenshot_31-5-2025_7116_127 0 0 1](https://github.com/user-attachments/assets/ed6a6f43-3576-46d3-aa40-5cb03483b25d)
+
